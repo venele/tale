@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          VE
+description:    venele
+# baseurl:        "/tale"
+url:            "https://venele.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         venele
+  url:          https://venele.github.io
+  email:        a@a.a
 
 # Build settings
 markdown:       kramdown
@@ -35,7 +35,7 @@ permalink:      /:year-:month-:day/:title
 paginate:       5
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec, build.sh ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
